@@ -34,10 +34,10 @@ html {
     right: -15px;
     width: 4px;
     height: 100%;
-    /* background-color: red; */
+     background-color: blueviolet; 
   }
 }
-/* .nav-links a.active {
-  color: red;
+ .nav-links a.active {
+  color: blueviolet;
   font-weight: 600;
-} */
+}
